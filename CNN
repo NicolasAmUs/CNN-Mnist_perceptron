@@ -1,1 +1,5 @@
 Perceptron multicapa para deteccion de numeros por video
+el archivo .h5 relfeja el codigo para la creacion de la red neuronal.
+se incluyen graficas que muestran el progreso y disminucion del error por epoca.
+El archivo OpenCV permite utilizar los pesos del la red neuronal para realizar la deteccion del numero en tiempo real.
+IMPORTANTE, 
